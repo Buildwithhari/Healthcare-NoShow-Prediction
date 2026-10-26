@@ -4,8 +4,10 @@ LIVE INTERACTIVE DASHBOARD
 
 CLICK HERE TO OPEN THE DASHBOARD]https://healthcare-noshow-prediction-n4abswebrijnjw95rbvorm.streamlit.app/
 
+Collabhttps://colab.research.google.com/drive/1cc9NyWOyRd9H71kg4AsfY8MY4xfntUXq?usp=drive_link
+
 Explore appointment analytics, interactive filters, Decision Tree model performance, and patient no-show predictions.
 
-## Project Source Code
+
 
 The Google Colab notebook and Streamlit application files are available in this repository.
